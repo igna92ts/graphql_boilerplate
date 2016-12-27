@@ -1,1 +1,3 @@
-# doujin-maker
+# GraphQL Boilerplate
+
+Simple GraphQL boilerplate
